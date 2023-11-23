@@ -7,4 +7,5 @@ scikit-learn
 seaborn
 xgboost
 catboost
+mlflow
 # -e .
